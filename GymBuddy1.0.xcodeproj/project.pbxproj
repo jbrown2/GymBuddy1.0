@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA0124BC1E4691930086DBC1 /* gymbuddydb.sql in Resources */ = {isa = PBXBuildFile; fileRef = AA0124BB1E4691930086DBC1 /* gymbuddydb.sql */; };
 		AA21A4FD1E4666EB0062B2B8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA21A4FC1E4666EB0062B2B8 /* AppDelegate.swift */; };
 		AA21A4FF1E4666EB0062B2B8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA21A4FE1E4666EB0062B2B8 /* ViewController.swift */; };
 		AA21A5021E4666EB0062B2B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA21A5001E4666EB0062B2B8 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AA0124BB1E4691930086DBC1 /* gymbuddydb.sql */ = {isa = PBXFileReference; lastKnownFileType = file; name = gymbuddydb.sql; path = ../../../../gymbuddydb.sql; sourceTree = "<group>"; };
 		AA21A4F91E4666EB0062B2B8 /* GymBuddy1.0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GymBuddy1.0.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA21A4FC1E4666EB0062B2B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AA21A4FE1E4666EB0062B2B8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -111,6 +113,7 @@
 				AA21A4FC1E4666EB0062B2B8 /* AppDelegate.swift */,
 				AA21A4FE1E4666EB0062B2B8 /* ViewController.swift */,
 				AA21A5001E4666EB0062B2B8 /* Main.storyboard */,
+				AA0124BB1E4691930086DBC1 /* gymbuddydb.sql */,
 				AA21A5031E4666EB0062B2B8 /* Assets.xcassets */,
 				AA21A5051E4666EB0062B2B8 /* LaunchScreen.storyboard */,
 				AA21A5081E4666EB0062B2B8 /* Info.plist */,
@@ -255,6 +258,7 @@
 				AA21A5071E4666EB0062B2B8 /* LaunchScreen.storyboard in Resources */,
 				AA21A5041E4666EB0062B2B8 /* Assets.xcassets in Resources */,
 				AA21A5021E4666EB0062B2B8 /* Main.storyboard in Resources */,
+				AA0124BC1E4691930086DBC1 /* gymbuddydb.sql in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
