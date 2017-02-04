@@ -9,7 +9,7 @@
 #import "DBManager.h"
 
 @implementation DBManager
--(instancetype)GymInfo:(NSString *)GymInfo{
+-(instancetype)initWithDatabaseGymInfo:(NSString *)GymInfo{
     self = [super init];
     if (self) {
         
