@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface DBManager : NSObject
--(instancetype)GymInfo:(NSString *)GymInfo;
+-(instancetype)initWithDatabaseGymInfo:(NSString *)GymInfo;
 @end
